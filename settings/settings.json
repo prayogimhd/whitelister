@@ -1,0 +1,18 @@
+{
+    "SniperAIO-Settings": [
+        {
+            "SniperAIO-Key": "SNIPER-I8JQ-4YKP-N9IG-6LKO",
+            "Webhook": "",
+            "CapMonsterApiKey": "45ca50337e13b9bfe106a418adc143ee",
+            "2CaptchaApiKey": "",
+            "XpFarmDiscordToken": "OTI2MzU4NjE4ODQ3MjA3NDg1.GEiE7r.4htzEFfxO6fm4SzxnT3ZKe9NvOjU7DtmPgHj54",
+            "RumbleRoyaleDiscordToken": "",
+            "GivewayDiscordToken": "",
+            "CaptchaOption": "1",
+            "DelayXpFarm": "16",
+            "DelayRumbleRoyaleMonitor": "2",
+            "DelayGiveawayMonitor": "2",
+            "DelayInviteJoiner": "1"
+        }
+    ]
+}
